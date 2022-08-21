@@ -23,4 +23,4 @@ $PROJECT_ROOT
 # Fotoğraflar
 
 
-![Screenshot_2022-08-21_21-18-33](https://user-images.githubusercontent.com/102397703/185805217-fea3ab5b-2f3f-43ea-8cc0-55f10ff4a565.png)
+![Screenshot_2022-08-21_21-20-33](https://user-images.githubusercontent.com/102397703/185805275-9053a099-bfa0-4f00-b8bc-721d04f25ec3.png)
