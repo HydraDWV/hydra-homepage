@@ -1,5 +1,5 @@
 # Hydra's Homepage
-[https://www.hydra-homepage.com/](https://www.hydra-homepage.com/)
+[https://www.hydra-homepage.com/](https://www.hydra-homepage.com/) activated!
 
 ## JS
 
